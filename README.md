@@ -1,5 +1,5 @@
 # react-mindmap-3
- Mind app with React
+ Mind Map fully customizable library 
 
 # install
 enter the command: `npm start`
