@@ -1,6 +1,6 @@
 import React from "react";
 import { MindMap } from "./components/MindMap";
-import { MindMapGlobalStyles, updateValues } from './components/MindMapGlobalStyles';
+import { MindMapGlobalStyles } from './components/MindMapGlobalStyles';
 
 export function App() {
   return (
